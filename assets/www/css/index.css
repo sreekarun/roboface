@@ -1,0 +1,37 @@
+
+.face{
+	position: relative;
+	top: 25px;
+	left : 10px;
+	height :185px;
+	width : 205px;
+	/*border : 1px solid red;*/
+	background: url('../img/face-sprite.png') no-repeat;
+}
+.smile{
+	background-position : 0 0;
+}
+.cry{
+	background-position : -213px 7px;
+}
+.surprise{
+	background-position: -440px 0;
+}
+.laugh{
+	background-position: 0 -220px;
+}
+.confused{
+	background-position : -213px -220px;
+}
+.wick{
+	background-position: -445px -225px;
+}
+.naughty{
+	background-position: 0 -401px;
+}
+.sad{
+	background-position : -213px -407px;
+}
+.blank{
+	background-position: -445px -406px;
+}
